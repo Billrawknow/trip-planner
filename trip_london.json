@@ -1,0 +1,56 @@
+{
+  "generated_at": "2026-10-17T22:40:28",
+  "trip": {
+    "city_searched": "London",
+    "home_currency": "KES",
+    "budget": 50000.0
+  },
+  "destination": {
+    "city": "London",
+    "country_code": "GB",
+    "local_currency": "GBP"
+  },
+  "weather_now": {
+    "condition": "clear sky",
+    "temp_c": 9.97,
+    "feels_like_c": 6.51,
+    "humidity_pct": 77,
+    "wind_kmh": 30.6
+  },
+  "forecast": [
+    {
+      "date": "2026-10-17",
+      "low_c": 10.0,
+      "high_c": 10.0,
+      "rain_chance_pct": 0,
+      "condition": "clear sky"
+    },
+    {
+      "date": "2026-10-18",
+      "low_c": 4.6,
+      "high_c": 14.7,
+      "rain_chance_pct": 93,
+      "condition": "clear sky"
+    },
+    {
+      "date": "2026-10-19",
+      "low_c": 7.7,
+      "high_c": 13.9,
+      "rain_chance_pct": 100,
+      "condition": "overcast clouds"
+    },
+    {
+      "date": "2026-10-20",
+      "low_c": 10.8,
+      "high_c": 12.5,
+      "rain_chance_pct": 100,
+      "condition": "light rain"
+    }
+  ],
+  "money": {
+    "rate": 0.005785,
+    "budget_in_local": 289.25,
+    "rates_updated": "Sat, 17 Oct 2026 00:00:02 +0000"
+  },
+  "packing_tip": "Pack a warm jacket and an umbrella."
+}
